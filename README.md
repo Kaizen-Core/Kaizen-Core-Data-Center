@@ -10,7 +10,5 @@ August 19, 2026
 Jeremy Beckley
 
 ## Objective
-Create a Functional Enterprise Level Homelab Data Center that is 
-Initiated, Planned, Executed, Monitored, Controlled and Closed 
-using PMP Standards.
-
+Design and Deploy a Documented Enterprise-Style Virtual Infrastructure Environment 
+that Demonstrates Project Management and Data Center Infrastructure Skills.
