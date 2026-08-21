@@ -1,0 +1,60 @@
+Data Center Project Manager Path
+Lesson Plan: Day 2
+
+CAPM Focus
+- Project Objective
+- Assumptions
+- Constraints
+- Success Criteria
+
+
+Technical Focus
+Homelab Data Center Project Objective
+
+**SMART Project Objective**
+
+Over 12 weeks, apply PMI project management methodologies to initiate, plan, execute, monitor/control, and close a simulated enterprise data center deployment using a Proxmox home lab, creating industry-standard project documentation and publishing a professional GitHub portfolio to showcase a Data Center Project Manager's comprehension.
+
+Hands-On 
+
+Success Criteria
+Proxmox infrastructure deployed
+Core infrastructure services implemented
+Network documentation completed
+Project documentation completed
+Backup and recovery tested
+Monitoring operational
+CAPM preparation completed
+
+Measurement
+100% operational
+At least 10 services deployed
+100% of VMs, IPs, and VLANs documented
+All planned PM documents finalized
+Successful restore of at least one VM
+CPU, memory, storage, and service monitoring configured
+All planned study milestones completed
+
+
+Portfolio Deliverable (Github)
+
+Portfolio Deliverable
+
+Create:
+Project Deliverables Document
+Homelab Data Center Project Objective/Success Criteria
+
+SMART Project Objective
+Over 12 weeks, apply PMI project management methodologies to initiate, plan, execute, monitor/control, and close a simulated enterprise data center deployment using a Proxmox home lab, creating industry-standard project documentation and publishing a professional GitHub portfolio to showcase a Data Center Project Manager's comprehension.
+
+Success Criteria
+Proxmox infrastructure deployed
+Core infrastructure services implemented
+Network documentation completed
+Project documentation completed
+Backup and recovery tested
+Monitoring operational
+CAPM preparation completed
+
+
+Thoughts: Its simple but a strong start towards becoming a Data Center Project Manager one day!
