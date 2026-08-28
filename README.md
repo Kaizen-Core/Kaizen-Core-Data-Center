@@ -17,21 +17,3 @@ https://app.notion.com/p/Education-2dc2d82d6db28075bceffed83df08e62?source=copy_
 
 ## Project Status
 🟢In Progress
-
-## DRAFT
-Project Cover Page
-│
-├── Project Name✅
-├── Date✅
-├── Project Manager✅
-├── Objective✅
-├── Business Need
-├── Scope
-├── Deliverables
-├── Timeline
-├── Technologies
-├── Skills Demonstrated
-├── Project Documents
-├── Screenshots
-├── Lessons Learned
-└── Next Steps
