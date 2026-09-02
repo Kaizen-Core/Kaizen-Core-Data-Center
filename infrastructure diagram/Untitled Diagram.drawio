@@ -1,0 +1,139 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="QwMyFIUTnGbxsen8tEOc">
+    <mxGraphModel dx="707" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b1ddf0;strokeColor=#10739e;" value="Internet" vertex="1">
+          <mxGeometry height="80" width="80" x="40" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Home Router" vertex="1">
+          <mxGeometry height="80" width="80" x="150" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-3" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Kaizen-Core" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" value="NetBird VPN" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-5" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcccc;strokeColor=#36393d;" value="Proxmox" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Switch" vertex="1">
+          <mxGeometry height="80" width="80" x="260" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-7" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" value="Ubuntu VM" vertex="1">
+          <mxGeometry height="80" width="80" x="240" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" value="&lt;div&gt;Windows Server 2022&lt;/div&gt;&lt;div&gt;VM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="80" x="370" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-10" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" value="Docker LXC" vertex="1">
+          <mxGeometry height="80" width="80" x="500" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-11" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="410" y="380" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-13" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="130" y="120" />
+            </Array>
+            <mxPoint x="120" y="120" as="sourcePoint" />
+            <mxPoint x="150" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-14" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="120" />
+            </Array>
+            <mxPoint x="230" y="120" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-15" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="120" />
+            </Array>
+            <mxPoint x="340" y="120" as="sourcePoint" />
+            <mxPoint x="370" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-16" edge="1" parent="1" source="hmQNZSdhp-niTEBt3SA4-3" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hmQNZSdhp-niTEBt3SA4-4" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="260" y="160" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-17" edge="1" parent="1" source="hmQNZSdhp-niTEBt3SA4-4" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="hmQNZSdhp-niTEBt3SA4-5" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="310" y="230" as="sourcePoint" />
+            <mxPoint x="310" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-18" edge="1" parent="1" source="hmQNZSdhp-niTEBt3SA4-5" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;width=1;" target="hmQNZSdhp-niTEBt3SA4-9" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="330" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-19" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="280" y="380" as="sourcePoint" />
+            <mxPoint x="410" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-20" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-21" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-22" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-23" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-24" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="350" y="380" as="sourcePoint" />
+            <mxPoint x="450" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-25" edge="1" parent="1" source="hmQNZSdhp-niTEBt3SA4-7" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="270" y="330" as="sourcePoint" />
+            <mxPoint x="280" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-26" edge="1" parent="1" source="hmQNZSdhp-niTEBt3SA4-10" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="580" y="370" as="sourcePoint" />
+            <mxPoint x="540" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hmQNZSdhp-niTEBt3SA4-27" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="PM" vertex="1">
+          <mxGeometry height="60" width="30" x="550" y="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
